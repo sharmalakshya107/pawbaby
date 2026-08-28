@@ -72,7 +72,7 @@ export function Footer() {
       </section>
 
       <p className="border-t border-on-primary-container/20 pt-6 text-xs text-on-primary-container sm:pt-8 sm:text-sm md:col-span-3 md:pt-20">
-        © 2026 {CONTACT.businessName}. Registered home-style boarding for your furry family.
+        © 2026 {CONTACT.businessName}.
       </p>
     </footer>
   )
